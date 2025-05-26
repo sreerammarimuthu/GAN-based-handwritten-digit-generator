@@ -15,10 +15,9 @@ This project explores Generative Adversarial Networks (GANs) for synthesizing re
 - `notebook.md` – Google Colab-ready notebook containing full model training, visualization, and inference logic
 
 ## Approach
-- Explored 16 different GAN configurations (fully connected + DCGAN variants) with techniques like batch normalization, dropout, and tanh activations
-- Tuned learning rate, batch size, activation functions (ReLU vs. LeakyReLU), and epochs
-- Best results from DCGAN-based architecture trained for 200 epochs
-- Introduced transposed convolutions to improve image sharpness
+- Explored 16 different GAN configurations (fully connected + DCGAN variants) with techniques like batch normalization, dropout, and tanh activations. Tuned learning rate, batch size, activation functions (ReLU vs. LeakyReLU), and epochs.
+- Best results from DCGAN-based architecture trained for 200 epochs.
+- Introduced transposed convolutions to improve image sharpness.
 
 ## Key Results  
 
