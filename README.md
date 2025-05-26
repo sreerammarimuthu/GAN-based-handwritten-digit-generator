@@ -8,8 +8,8 @@ This project explores Generative Adversarial Networks (GANs) for synthesizing re
 - `dataset.md` - Details on loading the MNIST dataset via torchvision  
 
 `models/`   
-- `generator.pt` – Final trained generator model (200 epochs)  
-- `generator_weights.pt` – Saved weights for reuse and inference  
+- `generator.pt` - Final trained generator model (200 epochs)  
+- `generator_weights.pt` - Saved weights for reuse and inference  
 
 `notebooks/`  
 - `notebook.md` – Google Colab-ready notebook containing full model training, visualization, and inference logic
