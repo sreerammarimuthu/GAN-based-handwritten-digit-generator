@@ -1,1 +1,2 @@
-# GAN-based-hand-digit-generator
+# GAN based Handwritten Digit Generator
+
