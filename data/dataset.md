@@ -2,4 +2,10 @@ MNIST is a dataset composed of handwritten numbers and their labels. Each MNIST 
 
 Download MNIST dataset directly in Pytorch (with following code):
 
-<pre> ```python from torchvision import datasets mnist_trainset = datasets.MNIST(root='./data', train=True, download=True, transform=None) mnist_testset = datasets.MNIST(root='./data', train=False, download=True, transform=None) ``` </pre>
+```python
+from torchvision import datasets
+
+mnist_trainset = datasets.MNIST(root='./data', train=True, download=True, transform=None)
+mnist_testset = datasets.MNIST(root='./data', train=False, download=True, transform=None)
+```
+
