@@ -12,7 +12,7 @@ This project explores Generative Adversarial Networks (GANs) for synthesizing re
 - `generator_weights.pt` - Saved weights for reuse and inference  
 
 `notebooks/`  
-- `notebook.md` – Google Colab-ready notebook containing full model training, visualization, and inference logic
+- `notebook.md` - Google Colab-ready notebook containing full model training, visualization, and inference logic
 
 ## Approach
 - Explored 16 different GAN configurations (fully connected + DCGAN variants) with techniques like batch normalization, dropout, and tanh activations. Tuned learning rate, batch size, activation functions (ReLU vs. LeakyReLU), and epochs.
