@@ -25,4 +25,7 @@ This project explores Generative Adversarial Networks (GANs) for synthesizing re
 | -------- | ------ | -------------- | ---------- | ---------------------------------------- |
 | Model 6  | 60     | FC layers      | ReLU/Tanh  | Clear digits, some noise remains         |
 | Model 9  | 100    | FC + LeakyReLU | Tanh       | Best performance (fully connected)       |
-| Model 16 | 200    | DCGAN (Conv)   | LeakyReLU  | **Best overall** - sharp, diverse digits |
+| Model 16 | 200    | DCGAN (Conv)   | LeakyReLU  | **Best overall** - sharp, diverse digits |  
+
+<h4>Model 16 - Output</h4>
+<img src="output/model-16-output-hwd.png" alt="Loss Plot 1" width="600"/>
